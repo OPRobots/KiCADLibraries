@@ -36,7 +36,7 @@
   (pad "14" smd oval (at 7.5535 11.303) (size 3 1.6) (drill (offset 0.7 0)) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dfd8e260-34c2-4262-b3c0-9cab29119ca3))
   (pad "15" smd oval (at 7.5535 13.843) (size 3 1.6) (drill (offset 0.7 0)) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 07d264b2-de6d-4e03-ab1f-24cfb98ed807))
   (pad "16" smd oval (at 7.5535 16.383) (size 3 1.6) (drill (offset 0.7 0)) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 31687d10-3488-411b-bed5-9de19ecb3d2e))
-  (model "C:/Users/manue/Downloads/ESP32-C3 supermini v5.step"
+  (model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ESP32-C3 supermini v5.step"
     (offset (xyz -20 -14.9 -3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
